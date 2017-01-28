@@ -1,0 +1,22 @@
+{
+  "name": "lint_review",
+  "version": "1.0.0",
+  "description": "apply lint review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fresh502/lint_review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fresh502/lint_review/issues"
+  },
+  "homepage": "https://github.com/fresh502/lint_review#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
